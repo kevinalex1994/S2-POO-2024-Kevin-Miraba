@@ -22,5 +22,5 @@ def main():
     promedio = calcular_promedio(temperaturas)
     print(f"El promedio semanal de las temperaturas es: {promedio:.2f}")
 
-if main == "_main_":
+if name == "_main_":
     main()
